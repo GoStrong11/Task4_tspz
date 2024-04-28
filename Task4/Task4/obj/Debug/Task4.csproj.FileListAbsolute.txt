@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\obj\Debug\AreaCalculator.MainForm.resources
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\admin\Desktop\PojectC++\Task4\Task4\obj\Debug\Task4.pdb
